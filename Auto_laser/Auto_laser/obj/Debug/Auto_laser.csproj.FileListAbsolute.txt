@@ -1,0 +1,9 @@
+F:\old_laser_change\Auto_laser\Auto_laser\bin\Debug\Auto_laser.exe.config
+F:\old_laser_change\Auto_laser\Auto_laser\bin\Debug\Auto_laser.exe
+F:\old_laser_change\Auto_laser\Auto_laser\bin\Debug\Auto_laser.pdb
+F:\old_laser_change\Auto_laser\Auto_laser\obj\Debug\Auto_laser.csprojResolveAssemblyReference.cache
+F:\old_laser_change\Auto_laser\Auto_laser\obj\Debug\Auto_laser.exe
+F:\old_laser_change\Auto_laser\Auto_laser\obj\Debug\Auto_laser.pdb
+F:\old_laser_change\auto_laser\Auto_laser\bin\Debug\MWArray.dll
+F:\old_laser_change\auto_laser\Auto_laser\bin\Debug\MWArray.xml
+F:\old_laser_change\auto_laser\Auto_laser\bin\Debug\Modeling.dll
